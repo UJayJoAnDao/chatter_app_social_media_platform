@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522022405899",
+    "project_id": "flutter-app-chatter",
+    "storage_bucket": "flutter-app-chatter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522022405899:android:aa82bad0d46295ebdb840e",
+        "android_client_info": {
+          "package_name": "com.example.chatter_app_social_media_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0B3JnSJnCT8PkEkw8AubL3DJyegM91kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
