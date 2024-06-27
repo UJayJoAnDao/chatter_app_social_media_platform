@@ -1,6 +1,12 @@
 # chatter_app_social_media_platform
 
 A new Flutter project.
+this is a social media app,which called chatter.
+
+This project uses firebase to achieve real-time communication.
+## Demo Video
+
+[Demo Video](https://youtu.be/7f839c4zpWU)
 
 ## Getting Started
 
